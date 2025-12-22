@@ -1,0 +1,156 @@
+Personal Portfolio
+
+# sidebar
+
+alt = James Wilson B. Alburo
+James Wilson B. Alburo
+College Student
+Programmer | Web Developer | Designer
+
+Show Contacts
+
+Email
+jb.alburo.bsit@gmail.com
+
+Phone
++63 960 282 2029
+
+Birthday
+April 29, 2007
+
+Location
+Manila, Philippines
+
+
+# navbar
+
+About
+Resume
+Works
+Contact
+
+
+# about
+
+About me
+
+A passionate and driven first-year IT student with a strong foundation in both software development and computer systems. I possess practical skills in multiple programming languages (C, C++, Java, HTML/CSS, JavaScript) and am committed to continuously expanding my technical knowledge.
+
+My hands-on experience extends to hardware troubleshooting, system maintenance, and networking fundamentals. I am also proficient in using productivity and design tools like the Microsoft Office Suite, Adobe applications, and Canva. Eager to apply my growing technical skill set in a dynamic environment where I can contribute, learn, and further develop my expertise in information technology.
+
+
+## service
+
+What i'm doing
+
+alt = Web development icon
+Web development
+Developing functional websites using HTML, CSS, and JavaScript. Eager to build more dynamic, interactive projects.
+
+alt = Web development icon
+Foundational Programming
+Developing proficiency in core languages including C, C++, and Java. Actively building and debugging projects to strengthen my problem-solving and logical thinking.
+
+
+# resume
+
+Resume
+
+Education
+
+Kaunlaran Elementary School
+2018 — 2019
+Completed elementary education, where foundational learning and digital literacy were introduced.
+
+M.B. Asistio Sr. High School Unit 1
+Information and Communication Technology (ICT) Strand
+2024 — 2025
+Completed the specialized ICT curriculum, gaining foundational knowledge in computer systems, networking, Animations and programming logic.
+
+University of Caloocan City
+Bachelor of Science in Information Technology (BSIT)
+2025 — 20xx
+Currently in my first year, building a strong foundation in programming, computer systems, and networking fundamentals.
+
+Experience
+
+Web Development Skills Practice
+2024 — Present
+Actively developing proficiency in front-end web technologies through hands-on practice and project-based learning.
+
+Soon...
+20xx — 20xx
+.......
+
+My skills
+
+C
+C++
+Java
+HTML / CSS
+JavaScript
+
+
+# works
+
+My Works
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
