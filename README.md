@@ -68,11 +68,12 @@ Kaunlaran Elementary School
 📫 Connect With Me
 GitHub: Kyoktaka
 
-Email: your.email@example.com
+Email: jb.alburo.bsit@gmail.com
 
 Portfolio Website: [Link when available]
 
 📝 Note
 This portfolio is a work in progress, just like my skills! I'm continuously learning and improving, so expect regular updates to both the projects showcased here and the technologies I'm working with.
+
 
 Last Updated: [12/22/2025]
